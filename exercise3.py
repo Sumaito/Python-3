@@ -1,4 +1,4 @@
-n1=int(input('Digite um Número por favor: '))
-n2=int(input('Digite outro Número por favor: '))
+n1=int(input('Please enter a number: '))
+n2=int(input('Please enter another number: '))
 s=n1+n2
-print('A soma entre {} e {} resultou em {}'.format(n1,n2,s))
+print('the sum between {} and {} resulted in {}'.format(n1,n2,s))
