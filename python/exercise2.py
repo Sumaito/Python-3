@@ -1,3 +1,3 @@
-#código de 'bem-vindo'
+#'Welcome' code
 name =input('Digit your name: ')
 print('nice to meet you, {}!'.format(name))
