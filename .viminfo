@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1614449565,,"wq"
+|2,0,1614451341,,"wq"
 :qa 1
 |2,0,1614216355,,"qa 1"
 :qa
@@ -42,36 +42,80 @@
 # global variables:
 
 # File marks:
-'0  1  51  ~/python/exercise6.py
-|4,48,1,51,1614449565,"~/python/exercise6.py"
-'1  1  37  ~/python/exercise5.py
-|4,49,1,37,1614449488,"~/python/exercise5.py"
-'2  1  105  ~/python/exercise4.py
-|4,50,1,105,1614449398,"~/python/exercise4.py"
-'3  1  25  ~/python/exercise3.py
-|4,51,1,25,1614449306,"~/python/exercise3.py"
-'4  1  14  ~/python/exercise2.py
-|4,52,1,14,1614449241,"~/python/exercise2.py"
-'5  3  121  ~/python/exercise6.py
-|4,53,3,121,1614448556,"~/python/exercise6.py"
-'6  2  121  ~/python/exercise6.py
-|4,54,2,121,1614448556,"~/python/exercise6.py"
-'7  3  121  ~/python/exercise6.py
-|4,55,3,121,1614448444,"~/python/exercise6.py"
-'8  2  121  ~/python/exercise6.py
-|4,56,2,121,1614448444,"~/python/exercise6.py"
-'9  3  79  ~/python/exercise6.py
-|4,57,3,79,1614448143,"~/python/exercise6.py"
+'0  3  101  ~/python/exercise5.py
+|4,48,3,101,1614451341,"~/python/exercise5.py"
+'1  3  78  ~/python/exercise6.py
+|4,49,3,78,1614451026,"~/python/exercise6.py"
+'2  1  51  ~/python/exercise6.py
+|4,50,1,51,1614449565,"~/python/exercise6.py"
+'3  1  51  ~/python/exercise6.py
+|4,51,1,51,1614449565,"~/python/exercise6.py"
+'4  1  37  ~/python/exercise5.py
+|4,52,1,37,1614449488,"~/python/exercise5.py"
+'5  1  37  ~/python/exercise5.py
+|4,53,1,37,1614449488,"~/python/exercise5.py"
+'6  1  105  ~/python/exercise4.py
+|4,54,1,105,1614449398,"~/python/exercise4.py"
+'7  1  25  ~/python/exercise3.py
+|4,55,1,25,1614449306,"~/python/exercise3.py"
+'8  1  14  ~/python/exercise2.py
+|4,56,1,14,1614449241,"~/python/exercise2.py"
+'9  2  121  ~/python/exercise6.py
+|4,57,2,121,1614448556,"~/python/exercise6.py"
 
 # Jumplist (newest first):
+-'  3  101  ~/python/exercise5.py
+|4,39,3,101,1614451341,"~/python/exercise5.py"
+-'  1  37  ~/python/exercise5.py
+|4,39,1,37,1614451061,"~/python/exercise5.py"
+-'  3  78  ~/python/exercise6.py
+|4,39,3,78,1614451026,"~/python/exercise6.py"
+-'  3  78  ~/python/exercise6.py
+|4,39,3,78,1614451026,"~/python/exercise6.py"
+-'  1  51  ~/python/exercise6.py
+|4,39,1,51,1614450773,"~/python/exercise6.py"
+-'  1  51  ~/python/exercise6.py
+|4,39,1,51,1614450773,"~/python/exercise6.py"
 -'  1  51  ~/python/exercise6.py
 |4,39,1,51,1614449565,"~/python/exercise6.py"
+-'  1  51  ~/python/exercise6.py
+|4,39,1,51,1614449565,"~/python/exercise6.py"
+-'  3  121  ~/python/exercise6.py
+|4,39,3,121,1614449499,"~/python/exercise6.py"
 -'  3  121  ~/python/exercise6.py
 |4,39,3,121,1614449499,"~/python/exercise6.py"
 -'  1  37  ~/python/exercise5.py
 |4,39,1,37,1614449488,"~/python/exercise5.py"
 -'  1  37  ~/python/exercise5.py
 |4,39,1,37,1614449488,"~/python/exercise5.py"
+-'  1  37  ~/python/exercise5.py
+|4,39,1,37,1614449488,"~/python/exercise5.py"
+-'  1  37  ~/python/exercise5.py
+|4,39,1,37,1614449488,"~/python/exercise5.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
+-'  1  105  ~/python/exercise4.py
+|4,39,1,105,1614449398,"~/python/exercise4.py"
 -'  1  105  ~/python/exercise4.py
 |4,39,1,105,1614449398,"~/python/exercise4.py"
 -'  1  105  ~/python/exercise4.py
@@ -96,6 +140,54 @@
 |4,39,1,25,1614449306,"~/python/exercise3.py"
 -'  1  25  ~/python/exercise3.py
 |4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
+-'  1  25  ~/python/exercise3.py
+|4,39,1,25,1614449306,"~/python/exercise3.py"
 -'  1  14  ~/python/exercise2.py
 |4,39,1,14,1614449241,"~/python/exercise2.py"
 -'  1  14  ~/python/exercise2.py
@@ -128,160 +220,58 @@
 |4,39,1,14,1614449241,"~/python/exercise2.py"
 -'  1  14  ~/python/exercise2.py
 |4,39,1,14,1614449241,"~/python/exercise2.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448556,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  121  ~/python/exercise6.py
-|4,39,2,121,1614448444,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614448143,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  79  ~/python/exercise6.py
-|4,39,2,79,1614447070,"~/python/exercise6.py"
--'  2  115  ~/python/exercise6.py
-|4,39,2,115,1614446968,"~/python/exercise6.py"
--'  2  115  ~/python/exercise6.py
-|4,39,2,115,1614446968,"~/python/exercise6.py"
--'  2  115  ~/python/exercise6.py
-|4,39,2,115,1614446968,"~/python/exercise6.py"
--'  2  115  ~/python/exercise6.py
-|4,39,2,115,1614446968,"~/python/exercise6.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
+-'  1  14  ~/python/exercise2.py
+|4,39,1,14,1614449241,"~/python/exercise2.py"
 
 # History of marks within files (newest to oldest):
 
-> ~/python/exercise6.py
-	*	1614449563	0
-	"	1	51
-	^	1	52
-	.	1	51
-	+	3	48
-	+	1	31
-	+	3	114
-	+	1	51
-
 > ~/python/exercise5.py
-	*	1614449486	0
-	"	1	37
-	^	1	38
-	.	1	37
+	*	1614451337	0
+	"	3	101
+	^	3	102
+	.	3	99
 	+	3	74
 	+	1	48
 	+	1	40
@@ -292,6 +282,20 @@
 	+	3	0
 	+	3	101
 	+	1	37
+	+	2	26
+	+	3	99
+
+> ~/python/exercise6.py
+	*	1614451023	0
+	"	3	78
+	^	3	79
+	.	3	78
+	+	3	48
+	+	1	31
+	+	3	114
+	+	1	51
+	+	2	29
+	+	3	78
 
 > ~/python/exercise4.py
 	*	1614449394	0
